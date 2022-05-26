@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/math-o-matic/vscode.git"
 	},
-	"version": "0.1.1",
+	"version": "0.3.0",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
